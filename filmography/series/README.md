@@ -129,9 +129,9 @@ Official Account : [@Weirdo101Series](https://x.com/Weirdo101Series)
 {% endcolumn %}
 {% endcolumns %}
 
-<h2 align="center"></h2>
+<p align="center"></p>
 
-<h2 align="center"></h2>
+<p align="center"></p>
 
 <h2 align="center">Keen</h2>
 
