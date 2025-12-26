@@ -19,8 +19,6 @@ layout:
 
 <h2 align="center">SeaKeen</h2>
 
-***
-
 ### แค่ที่แกง Only Boo! <a href="#h.oehr4xo7zfv8_l" id="h.oehr4xo7zfv8_l"></a>
 
 {% columns %}
@@ -46,6 +44,8 @@ Official Account: [@OnlyBooSeriesTH](https://x.com/OnlyBooSeriesTH)
 Rerun: [YouTube](https://youtube.com/playlist?list=PLszepnkojZI72NwYDLdpMM17t-B-9BvTB)
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 ### MuTeLuv ตอน หมอดูทักครับ "Hi" by my luck <a href="#h.wag3vsv11ex5_l" id="h.wag3vsv11ex5_l"></a>
 
@@ -73,6 +73,8 @@ Rerun: [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4UHXk5xPSrFFfY_9t
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 ### ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head <a href="#h.meunvkrc0mvx_l" id="h.meunvkrc0mvx_l"></a>
 
 {% columns %}
@@ -99,6 +101,8 @@ Rerun: [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4HRwD1wzag844Ig0Z
 {% endcolumn %}
 {% endcolumns %}
 
+***
+
 ### WEIRDO-101 แรงโน้มถ่วงระหว่างเรา <a href="#h.j6hmgv756cml_l" id="h.j6hmgv756cml_l"></a>
 
 {% columns %}
@@ -123,7 +127,9 @@ Official Account : [@Weirdo101Series](https://x.com/Weirdo101Series)
 {% endcolumn %}
 {% endcolumns %}
 
-***
+<h2 align="center"></h2>
+
+<h2 align="center"></h2>
 
 <h2 align="center">Keen</h2>
 
@@ -147,6 +153,8 @@ Rerun: [YouTube](https://youtube.com/playlist?list=PL9XCCyWCQQeDUDRm6gqn-bssFDId
 Interview : [Clip1](https://youtu.be/afi7MBnQbFs)  [Clip2](https://youtu.be/Z7S34qW2awc)
 {% endcolumn %}
 {% endcolumns %}
+
+***
 
 ### เธมโป้ (ThamePo) Heart That Skips a Beat <a href="#h.culezjynp7vr_l" id="h.culezjynp7vr_l"></a>
 

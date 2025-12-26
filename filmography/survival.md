@@ -19,8 +19,6 @@ layout:
 
 <h2 align="center">Keen</h2>
 
-***
-
 {% columns %}
 {% column width="41.66666666666667%" %}
 <figure><img src="https://i.mydramalist.com/EALYl_4f.jpg" alt=""><figcaption></figcaption></figure>
@@ -42,3 +40,5 @@ layout:
 Rerun : [YouTube](https://youtube.com/playlist?list=PLwPs40jBJTEoH0Jd3CEylorphv9TQvFph)
 {% endcolumn %}
 {% endcolumns %}
+
+***
