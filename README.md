@@ -8,7 +8,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: false
   metadata:
@@ -35,6 +35,8 @@ Contact for Work\
 Call: (+66)61-414-4046 (GMMTV)\
 Line OA : @gmmtvartists\_work\
 Email : gmmtv.artists@gmail.com
+
+<a href="https://www.instagram.com/sea_ta_lay/" class="button primary" data-icon="instagram"></a>  <a href="https://x.com/sea_ta_lay" class="button primary" data-icon="x-twitter"></a>  <a href="https://www.tiktok.com/@sea_ta_lay" class="button primary" data-icon="tiktok"></a>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -58,6 +60,8 @@ Contact for Work\
 Call : (+66)61-414-4046 (GMMTV)\
 Line OA : @gmmtvartists\_work\
 Email : gmmtv.artists@gmail.com
+
+<a href="https://www.instagram.com/keenkeno/" class="button primary" data-icon="instagram"></a>  <a href="https://x.com/keenkeno_sp" class="button primary" data-icon="x-twitter"></a>  <a href="https://www.tiktok.com/@keen_keno" class="button primary" data-icon="tiktok"></a>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -77,17 +81,15 @@ Date of Birth : 15 September 2024\
 Parent : อากู๋ (Sea) อาเฮีย (Keen)\
 Hashtag : [#NONGNOOONG](https://x.com/hashtag/NONGNOOONG?src=hashtag_click)
 
-🔗 [HI NONG NOOONG<br>](https://x.com/GMMTV/status/1839532922497286569)🔗 [MY IDEAL FAN | เปิดตัวคาแรกเตอร์แฟนคลับของซีคีน<br>](https://youtu.be/dB0P5NqAlM4)🔗 [เจออากู๋กับอาเฮียครั้งแรกฮับ💙🧡](https://x.com/NONG_NOOONG/status/1951608037690753172)
-
-Social Media\
-X : [@NONG\_NOOONG](https://x.com/NONG_NOOONG)\
-Instagram : [nong\_nooong.gmmtv](https://www.instagram.com/nong_nooong.gmmtv/)\
-TikTok : [nongnooong.gmmtv](https://www.tiktok.com/@nongnooong.gmmtv)\
-TikTok : [gigglegang.gmmtv](https://www.tiktok.com/@gigglegang.gmmtv)
+🔗 [HI NONG NOOONG](https://x.com/GMMTV/status/1839532922497286569)\
+🔗 [MY IDEAL FAN | เปิดตัวคาแรกเตอร์แฟนคลับของซีคีน](https://youtu.be/dB0P5NqAlM4)\
+🔗 [เจออากู๋กับอาเฮียครั้งแรกฮับ💙🧡](https://x.com/NONG_NOOONG/status/1951608037690753172)
 
 Contact for Work\
 Call : (+66)61-414-4046\
 Line OA : @gmmtvartists\_work\
 Email : gmmtv.artists@gmail.com
+
+<a href="https://www.instagram.com/nong_nooong.gmmtv/" class="button primary" data-icon="instagram"></a>  <a href="https://x.com/NONG_NOOONG" class="button primary" data-icon="x-twitter"></a>  <a href="https://www.tiktok.com/@nongnooong.gmmtv" class="button primary" data-icon="tiktok"></a>  <a href="https://www.tiktok.com/@gigglegang.gmmtv" class="button primary" data-icon="tiktok">Giggle Gang</a>
 {% endcolumn %}
 {% endcolumns %}
