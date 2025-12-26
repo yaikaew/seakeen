@@ -19,6 +19,8 @@ layout:
 
 <h3 align="center">SeaKeen</h3>
 
+***
+
 {% columns %}
 {% column width="41.66666666666667%" %}
 <figure><img src="https://www.gmm25.com/2016/upload_2020/images/23123213(1).jpg" alt=""><figcaption></figcaption></figure>
@@ -49,11 +51,26 @@ Rerun:  <a href="https://youtube.com/playlist?list=PLszepnkojZI72NwYDLdpMM17t-B-
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-
+<figure><img src="https://gmm25.com/asset/upload/vod_channel/horizontal_202508191710351.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
+#### MuTeLuv ตอน หมอดูทักครับ "Hi" by my luck <a href="#h.wag3vsv11ex5_l" id="h.wag3vsv11ex5_l"></a>
 
+Sea as Mawin (ซี รับบท มาวิน)\
+Keen as Err (คีน รับบท เอ้อ)
+
+Episodes: 4
+
+Aired: Aug 25, 2025 - Sep 15, 2025
+
+Hashtag : [#MuTeLuvHiByMyLuck](https://x.com/hashtag/MuTeLuvHiByMyLuck?src=hashtag_click)
+
+Official Trailer : [\[Official Trailer\] MuTeLuv ตอน หมอดูทักครับ "Hi" by my luck #MuTeLuvHiByMyLuck](https://youtu.be/j2sEsYQH5oA)
+
+Official Account : [@MUTELUVSeries](https://x.com/MUTELUVSeries)
+
+Rerun: [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4UHXk5xPSrFFfY_9tX6BKo)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -61,11 +78,26 @@ Rerun:  <a href="https://youtube.com/playlist?list=PLszepnkojZI72NwYDLdpMM17t-B-
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-
+<figure><img src="https://gmm25.com/asset/upload/vod_channel/horizontal_202510141048001.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
+#### ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head <a href="#h.meunvkrc0mvx_l" id="h.meunvkrc0mvx_l"></a>
 
+Sea as Jerome (ซี รับบท เจโรม)\
+Keen as Jinn (คีน รับบท จิณณ์)
+
+Episodes: 12
+
+Aired: Oct 26, 2025 - Jan 11, 2026
+
+Hashtag : [#H2Hseries](https://x.com/search?q=%23H2Hseries\&src=hashtag_click)
+
+Official Trailer : [\[Official Trailer\] ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head](https://youtu.be/7iKRgTqxFp0)
+
+Official Account : [@Head2HeadGMMTV](https://x.com/Head2HeadGMMTV)
+
+Rerun: [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4HRwD1wzag844Ig0ZGT_Pl) , TrueVisions NOW
 {% endcolumn %}
 {% endcolumns %}
 
@@ -77,11 +109,20 @@ Rerun:  <a href="https://youtube.com/playlist?list=PLszepnkojZI72NwYDLdpMM17t-B-
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-#### Import
+#### WEIRDO-101 แรงโน้มถ่วงระหว่างเรา <a href="#h.j6hmgv756cml_l" id="h.j6hmgv756cml_l"></a>
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+Sea as Parncheewa (ซี รับบท ปานชีวา)\
+Keen as Niran (คีน รับบท นิรันด์)
 
-<a href="https://gitbook.com/docs/getting-started/import" class="button primary">Learn more</a>
+Status: TBC
+
+Hashtag : [#WEIRDO101Series](https://x.com/search?q=%23WEIRDO101Series\&src=hashtag_click)
+
+Official Pilot : [WEIRDO-101 แรงโน้มถ่วงระหว่างเรา | GMMTV 2026](https://youtu.be/jvgH4c6P6EA)
+
+GMMTV 2026 : [YouTube](https://www.youtube.com/live/JGhHa5dGzGc?si=bYiFa_hw14Iw1dbM\&t=17808)
+
+Official Account : [@Weirdo101Series](https://x.com/Weirdo101Series)
 {% endcolumn %}
 {% endcolumns %}
 
