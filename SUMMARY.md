@@ -4,7 +4,8 @@
 
 ## Filmography
 
-* [Series](filmography/series.md)
+* [Series](filmography/series/README.md)
+  * [Head 2 Head](filmography/series/head-2-head.md)
 * [Survival](filmography/survival.md)
 
 ## Discography

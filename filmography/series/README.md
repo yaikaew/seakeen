@@ -98,6 +98,8 @@ Official Trailer : [\[Official Trailer\] ไหนใครว่าพวกม
 Official Account : [@Head2HeadGMMTV](https://x.com/Head2HeadGMMTV)
 
 Rerun: [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4HRwD1wzag844Ig0ZGT_Pl) , TrueVisions NOW
+
+<a href="head-2-head.md" class="button secondary">More Info</a>
 {% endcolumn %}
 {% endcolumns %}
 
