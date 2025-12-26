@@ -17,6 +17,10 @@ layout:
 
 # Survival
 
+<h2 align="center">Keen</h2>
+
+***
+
 {% columns %}
 {% column width="41.66666666666667%" %}
 <figure><img src="https://i.mydramalist.com/EALYl_4f.jpg" alt=""><figcaption></figcaption></figure>
