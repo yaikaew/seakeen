@@ -7,12 +7,8 @@
   * [Head 2 Head](series/head-2-head.md)
   * [MuTeLuv](series/muteluv.md)
   * [Only Boo](series/only-boo.md)
-* [Magazine](magazine.md)
-
-## Shows
-
-* [TV Shows](shows/tv-shows.md)
-* [Online Shows](shows/online-shows.md)
-* [Behind The Scenes](shows/behind-the-scenes.md)
-* [Press Tours](shows/press-tours.md)
-* [Press Cons](shows/press-cons.md)
+* [Magazine](magazine/README.md)
+  * [ELLE Crush](magazine/elle-crush.md)
+  * [KAZZ MAGAZINE](magazine/kazz-magazine.md)
+  * [Praew Favor](magazine/praew-favor.md)
+* [Shows](shows.md)

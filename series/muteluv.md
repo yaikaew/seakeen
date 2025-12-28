@@ -68,11 +68,25 @@ Highlight : [YouTube](https://youtube.com/playlist?list=PLltnDy2l71JKP2Uh8aDD6tm
 
 {% columns %}
 {% column %}
-
+<figure><img src="../.gitbook/assets/muteluv-trailer.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
+<figure><img src="../.gitbook/assets/muteluv-ep1.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
+{% column %}
+<figure><img src="../.gitbook/assets/muteluv-ep2.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/muteluv-ep3.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/muteluv-final.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
