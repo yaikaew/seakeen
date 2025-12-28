@@ -23,9 +23,10 @@ layout:
     <tr>
       <th width="100">Artist</th>
       <th width="120">Date</th>
-      <th width="150">Name</th>
+      <th width="200">Name</th>
       <th width="70">Info</th>
-      <th width="70">Rerun</th><th>Hashtag</th>
+      <th width="70">Rerun</th>
+      <th width="200">Hashtag</th>
     </tr>
   </thead>
   <tbody>
