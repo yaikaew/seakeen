@@ -22,18 +22,18 @@ layout:
 {% column %}
 <figure><img src="https://pbs.twimg.com/media/GQatoISbgAAFHPo?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
 
-<p align="center">Praew Favor</p>
+<p align="center"><a href="praew-favor.md">Praew Favor</a></p>
 {% endcolumn %}
 
 {% column %}
 <figure><img src="https://pbs.twimg.com/media/G4Q8vGNW4AAjrdw?format=jpg&#x26;name=4096x4096" alt=""><figcaption></figcaption></figure>
 
-<p align="center">KAZZ MAGAZINE</p>
+<p align="center"><a href="kazz-magazine.md">KAZZ MAGAZINE</a></p>
 {% endcolumn %}
 
 {% column %}
 <figure><img src="https://pbs.twimg.com/media/G6-nJmeb0AANAJn?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
 
-<p align="center">ELLE Crush</p>
+<p align="center"><a href="elle-crush.md">ELLE Crush</a></p>
 {% endcolumn %}
 {% endcolumns %}
