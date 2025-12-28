@@ -1,13 +1,14 @@
 # Table of contents
 
 * [Profile](README.md)
+* [Discography](discography.md)
 
 ## Discography
 
-* [Single](discography/single.md)
-* [Performance](discography/performance.md)
-* [Cover](discography/cover.md)
-* [Special](discography/special.md)
+* [Single](discography-1/single.md)
+* [Performance](discography-1/performance.md)
+* [Cover](discography-1/cover.md)
+* [Special](discography-1/special.md)
 
 ## Filmography
 
