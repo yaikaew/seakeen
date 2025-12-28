@@ -1,4 +1,5 @@
 ---
+icon: file-user
 layout:
   width: wide
   title:

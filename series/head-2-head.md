@@ -60,43 +60,43 @@ Behind The Scenes : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4zW-
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/Trailer.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Trailer.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/Special.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Special.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/EP01.jpg" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-<figure><img src="../../.gitbook/assets/EP02.jpg" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../.gitbook/assets/EP03.jpg" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../.gitbook/assets/EP04.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/EP01.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/EP05.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/EP02.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/EP06.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/EP03.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/EP07.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/EP04.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/EP05.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/EP06.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/EP07.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -162,4 +162,4 @@ Behind The Scenes : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4zW-
 
 ***
 
-<p align="center"><a href="./#h.meunvkrc0mvx_l" class="button primary">Back To Series Page</a></p>
+<p align="center"><a href="./#seakeen" class="button primary">Back To Series Page</a></p>

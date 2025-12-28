@@ -2,24 +2,12 @@
 
 * [Profile](README.md)
 * [Discography](discography.md)
-
-## Discography
-
-* [Single](discography-1/single.md)
-* [Performance](discography-1/performance.md)
-* [Cover](discography-1/cover.md)
-* [Special](discography-1/special.md)
-
-## Filmography
-
-* [Series](filmography/series/README.md)
-  * [Head 2 Head](filmography/series/head-2-head.md)
-  * [MuTeLuv](filmography/series/muteluv.md)
-* [Survival](filmography/survival.md)
-
-## Magazine
-
-* [Magazine](magazine/magazine.md)
+* [Filmography](series/README.md)
+  * [WEIRDO-101](series/weirdo-101.md)
+  * [Head 2 Head](series/head-2-head.md)
+  * [MuTeLuv](series/muteluv.md)
+  * [Only Boo](series/only-boo.md)
+* [Magazine](magazine.md)
 
 ## Shows
 

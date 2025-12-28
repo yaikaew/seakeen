@@ -36,6 +36,18 @@ layout:
 {% endcolumn %}
 
 {% column %}
+Main Role\
+Sea as Mawin (ซี รับบท มาวิน)\
+Keen as Err (คีน รับบท เอ้อ)
+
+Episodes: 4
+
+Aired: Aug 25, 2025 - Sep 15, 2025
+
+Hashtag : [#MuTeLuvHiByMyLuck](https://x.com/hashtag/MuTeLuvHiByMyLuck?src=hashtag_click)
+
+Official Account : [@MUTELUVSeries](https://x.com/MUTELUVSeries)
+
 Full EP : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4UHXk5xPSrFFfY_9tX6BKo)
 
 Highlight : [YouTube](https://youtube.com/playlist?list=PLltnDy2l71JKP2Uh8aDD6tmw5uSJRKxF4)
@@ -88,4 +100,4 @@ Highlight : [YouTube](https://youtube.com/playlist?list=PLltnDy2l71JKP2Uh8aDD6tm
 
 ***
 
-<p align="center"><a href="./#h.wag3vsv11ex5_l" class="button primary">Back To Series Page</a></p>
+<p align="center"><a href="./#seakeen" class="button primary">Back To Series Page</a></p>
