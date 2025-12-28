@@ -174,3 +174,5 @@ Hashtag : [#ThamePoSeries](https://x.com/hashtag/ThamePoSeries?src=hashtag_click
 Rerun: [EP.12 \[1/4\]](https://youtu.be/FXqVisPvyoo)&#x20;
 {% endcolumn %}
 {% endcolumns %}
+
+<table><thead><tr><th>Year</th><th>Title</th><th>Role</th><th data-type="content-ref">Info</th></tr></thead><tbody><tr><td></td><td>เธมโป้ (ThamePo) Heart That Skips a Beat</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>

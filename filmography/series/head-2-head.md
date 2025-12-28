@@ -132,6 +132,34 @@ Behind The Scenes : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4zW-
 {% endcolumn %}
 {% endcolumns %}
 
+{% columns %}
+{% column %}
+<figure><img src="https://pbs.twimg.com/media/G3DUMJIbcAAjXJm?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://pbs.twimg.com/media/G3DUMJJawAAPcMz?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://pbs.twimg.com/media/G3FU-hFaoAAZPz4?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+<figure><img src="https://pbs.twimg.com/media/G8s0iatbQAA_CCf?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://pbs.twimg.com/media/G8s0iaubYAACoCp?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="https://pbs.twimg.com/media/G9Ofbu1bgAQ6ZD5?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
 ***
 
 <p align="center"><a href="./#h.meunvkrc0mvx_l" class="button primary">Back To Series Page</a></p>
