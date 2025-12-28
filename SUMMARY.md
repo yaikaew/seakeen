@@ -12,3 +12,4 @@
   * [KAZZ MAGAZINE](magazine/kazz-magazine.md)
   * [Praew Favor](magazine/praew-favor.md)
 * [Shows](shows.md)
+* [Schedule](schedule.md)
