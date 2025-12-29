@@ -26,6 +26,13 @@ layout:
 
 มาติดตามความสัมพันธ์ของคู่ปรับทั้งสองได้ใน "ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head" ทุกวันอาทิตย์ เวลา 20:30 น. ทางช่อง GMM25 และทางแอปพลิเคชั่น TrueVisions NOW เท่านั้น เริ่ม 26 ตุลาคมนี้
 
+รายชื่อนักแสดง\
+ซี เดชชาติ ทาศิลป์ รับบท เจโรม\
+คีน สุวิจักขณ์ ปิยะนพโรจน์ รับบท จิณณ์\
+เซิร์ฟ พชร ศิลปสุนทร รับบท ฟาร์ม\
+จาว่า พบธรรม หรรษา รับบท แวน\
+เจเจ ชยกร จุฑามาศ รับบท ไม้
+
 กำกับซีรีส์ : ศิวัจน์ สวัสดิ์มณีกุล
 
 ***
@@ -50,9 +57,21 @@ Behind The Scenes : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4zW-
 
 ***
 
+### Ost.
+
+<table data-view="cards"><thead><tr><th>Song</th><th>Artist</th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>คิดว่าไม่ แต่ดันใช่ (Turns Out It's You)</td><td>Sea, Keen</td><td><a href="https://img.youtube.com/vi/v4O9ysuVBuY/maxresdefault.jpg">https://img.youtube.com/vi/v4O9ysuVBuY/maxresdefault.jpg</a></td><td><a href="https://youtu.be/v4O9ysuVBuY">https://youtu.be/v4O9ysuVBuY</a></td></tr><tr><td>จริงๆ ชอบเธอ (Secret Crush)</td><td>Sea Dechchart</td><td><a href="https://img.youtube.com/vi/RT1lDAID3_I/maxresdefault.jpg">https://img.youtube.com/vi/RT1lDAID3_I/maxresdefault.jpg</a></td><td><a href="https://youtu.be/RT1lDAID3_I">https://youtu.be/RT1lDAID3_I</a></td></tr><tr><td>ไหนว่าไม่ชอบ (Not a Crush?)</td><td>Keen Suvijak</td><td><a href="https://img.youtube.com/vi/_10ZSPksHd4/maxresdefault.jpg">https://img.youtube.com/vi/_10ZSPksHd4/maxresdefault.jpg</a></td><td><a href="https://youtu.be/_10ZSPksHd4">https://youtu.be/_10ZSPksHd4</a></td></tr></tbody></table>
+
+***
+
 ### Behind The Scenes <a href="#h.enoqyxjv7z2u_l" id="h.enoqyxjv7z2u_l"></a>
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">[BTS] Head 2 Head EP.1</td><td><a href="https://img.youtube.com/vi/k1tNUx3zsRQ/maxresdefault.jpg">https://img.youtube.com/vi/k1tNUx3zsRQ/maxresdefault.jpg</a></td><td><a href="https://youtu.be/k1tNUx3zsRQ">https://youtu.be/k1tNUx3zsRQ</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.2</td><td><a href="https://img.youtube.com/vi/oL7JhpHUEww/maxresdefault.jpg">https://img.youtube.com/vi/oL7JhpHUEww/maxresdefault.jpg</a></td><td><a href="https://youtu.be/oL7JhpHUEww">https://youtu.be/oL7JhpHUEww</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.3</td><td><a href="https://img.youtube.com/vi/-_a1iJ1ldfo/maxresdefault.jpg">https://img.youtube.com/vi/-_a1iJ1ldfo/maxresdefault.jpg</a></td><td><a href="https://youtu.be/-_a1iJ1ldfo">https://youtu.be/-_a1iJ1ldfo</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.4</td><td><a href="https://img.youtube.com/vi/Vz4LLGIBxKo/maxresdefault.jpg">https://img.youtube.com/vi/Vz4LLGIBxKo/maxresdefault.jpg</a></td><td><a href="https://youtu.be/Vz4LLGIBxKo">https://youtu.be/Vz4LLGIBxKo</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.5</td><td><a href="https://img.youtube.com/vi/dP9UtraYUYs/maxresdefault.jpg">https://img.youtube.com/vi/dP9UtraYUYs/maxresdefault.jpg</a></td><td><a href="https://youtu.be/dP9UtraYUYs">https://youtu.be/dP9UtraYUYs</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.6</td><td><a href="https://img.youtube.com/vi/Htoa9SQJh7g/maxresdefault.jpg">https://img.youtube.com/vi/Htoa9SQJh7g/maxresdefault.jpg</a></td><td><a href="https://youtu.be/Htoa9SQJh7g">https://youtu.be/Htoa9SQJh7g</a></td></tr></tbody></table>
+
+***
+
+### Content
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [1/4]</td><td><a href="https://img.youtube.com/vi/qIVojdME2W4/maxresdefault.jpg">https://img.youtube.com/vi/qIVojdME2W4/maxresdefault.jpg</a></td><td><a href="https://youtu.be/qIVojdME2W4">https://youtu.be/qIVojdME2W4</a></td></tr><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [2/4]</td><td><a href="https://img.youtube.com/vi/G78889jCOW0/maxresdefault.jpg">https://img.youtube.com/vi/G78889jCOW0/maxresdefault.jpg</a></td><td><a href="https://youtu.be/G78889jCOW0">https://youtu.be/G78889jCOW0</a></td></tr><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [3/4]</td><td><a href="https://img.youtube.com/vi/lnGxyEBAGQI/maxresdefault.jpg">https://img.youtube.com/vi/lnGxyEBAGQI/maxresdefault.jpg</a></td><td><a href="https://youtu.be/lnGxyEBAGQI">https://youtu.be/lnGxyEBAGQI</a></td></tr><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [4/4]</td><td><a href="https://img.youtube.com/vi/Bqb-t4CWoWw/maxresdefault.jpg">https://img.youtube.com/vi/Bqb-t4CWoWw/maxresdefault.jpg</a></td><td><a href="https://youtu.be/Bqb-t4CWoWw">https://youtu.be/Bqb-t4CWoWw</a></td></tr><tr><td align="center">พูดคุยกับ “ซี-คีน, เซิร์ฟ-จาว่า” ที่งาน GMMTV FANIVAL</td><td><a href="https://img.youtube.com/vi/dgZvzPDvnFE/maxresdefault.jpg">https://img.youtube.com/vi/dgZvzPDvnFE/maxresdefault.jpg</a></td><td><a href="https://www.youtube.com/live/dgZvzPDvnFE">https://www.youtube.com/live/dgZvzPDvnFE</a></td></tr></tbody></table>
 
 ***
 
