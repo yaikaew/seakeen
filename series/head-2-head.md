@@ -73,7 +73,7 @@ Highlight : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI7xrJSgECYFfr
 
 ***
 
-### Behind The Scenes <a href="#h.enoqyxjv7z2u_l" id="h.enoqyxjv7z2u_l"></a>
+### Behind The Scenes
 
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [1/4]</td><td><a href="https://img.youtube.com/vi/qIVojdME2W4/maxresdefault.jpg">https://img.youtube.com/vi/qIVojdME2W4/maxresdefault.jpg</a></td><td><a href="https://youtu.be/qIVojdME2W4">https://youtu.be/qIVojdME2W4</a></td></tr><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [2/4]</td><td><a href="https://img.youtube.com/vi/G78889jCOW0/maxresdefault.jpg">https://img.youtube.com/vi/G78889jCOW0/maxresdefault.jpg</a></td><td><a href="https://youtu.be/G78889jCOW0">https://youtu.be/G78889jCOW0</a></td></tr><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [3/4]</td><td><a href="https://img.youtube.com/vi/lnGxyEBAGQI/maxresdefault.jpg">https://img.youtube.com/vi/lnGxyEBAGQI/maxresdefault.jpg</a></td><td><a href="https://youtu.be/lnGxyEBAGQI">https://youtu.be/lnGxyEBAGQI</a></td></tr><tr><td align="center">ไหนใครว่าพวกมันไม่ถูกกัน Head 2 Head Special | [4/4]</td><td><a href="https://img.youtube.com/vi/Bqb-t4CWoWw/maxresdefault.jpg">https://img.youtube.com/vi/Bqb-t4CWoWw/maxresdefault.jpg</a></td><td><a href="https://youtu.be/Bqb-t4CWoWw">https://youtu.be/Bqb-t4CWoWw</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.1</td><td><a href="https://img.youtube.com/vi/k1tNUx3zsRQ/maxresdefault.jpg">https://img.youtube.com/vi/k1tNUx3zsRQ/maxresdefault.jpg</a></td><td><a href="https://youtu.be/k1tNUx3zsRQ">https://youtu.be/k1tNUx3zsRQ</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.2</td><td><a href="https://img.youtube.com/vi/oL7JhpHUEww/maxresdefault.jpg">https://img.youtube.com/vi/oL7JhpHUEww/maxresdefault.jpg</a></td><td><a href="https://youtu.be/oL7JhpHUEww">https://youtu.be/oL7JhpHUEww</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.3</td><td><a href="https://img.youtube.com/vi/-_a1iJ1ldfo/maxresdefault.jpg">https://img.youtube.com/vi/-_a1iJ1ldfo/maxresdefault.jpg</a></td><td><a href="https://youtu.be/-_a1iJ1ldfo">https://youtu.be/-_a1iJ1ldfo</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.4</td><td><a href="https://img.youtube.com/vi/Vz4LLGIBxKo/maxresdefault.jpg">https://img.youtube.com/vi/Vz4LLGIBxKo/maxresdefault.jpg</a></td><td><a href="https://youtu.be/Vz4LLGIBxKo">https://youtu.be/Vz4LLGIBxKo</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.5</td><td><a href="https://img.youtube.com/vi/dP9UtraYUYs/maxresdefault.jpg">https://img.youtube.com/vi/dP9UtraYUYs/maxresdefault.jpg</a></td><td><a href="https://youtu.be/dP9UtraYUYs">https://youtu.be/dP9UtraYUYs</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.6</td><td><a href="https://img.youtube.com/vi/Htoa9SQJh7g/maxresdefault.jpg">https://img.youtube.com/vi/Htoa9SQJh7g/maxresdefault.jpg</a></td><td><a href="https://youtu.be/Htoa9SQJh7g">https://youtu.be/Htoa9SQJh7g</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.7</td><td><a href="https://img.youtube.com/vi/3bdmcQ1YNLI/maxresdefault.jpg">https://img.youtube.com/vi/3bdmcQ1YNLI/maxresdefault.jpg</a></td><td><a href="https://youtu.be/3bdmcQ1YNLI">https://youtu.be/3bdmcQ1YNLI</a></td></tr><tr><td align="center">[BTS] Head 2 Head EP.8</td><td><a href="https://img.youtube.com/vi/kdk0Q85uWkM/maxresdefault.jpg">https://img.youtube.com/vi/kdk0Q85uWkM/maxresdefault.jpg</a></td><td><a href="https://youtu.be/kdk0Q85uWkM">https://youtu.be/kdk0Q85uWkM</a></td></tr></tbody></table>
 
@@ -131,21 +131,21 @@ Highlight : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI7xrJSgECYFfr
 
 {% columns %}
 {% column %}
-
+<figure><img src="../.gitbook/assets/h2h-ep08.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-
+<figure><img src="../.gitbook/assets/h2h-ep09.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-
+<figure><img src="../.gitbook/assets/h2h-ep10.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
 ***
 
-### Poster <a href="#h.favu18c5ibiu_l" id="h.favu18c5ibiu_l"></a>
+### Poster
 
 {% columns %}
 {% column %}
