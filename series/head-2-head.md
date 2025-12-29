@@ -42,16 +42,26 @@ layout:
 {% columns %}
 {% column %}
 {% embed url="https://youtu.be/7iKRgTqxFp0" %}
+
+
 {% endcolumn %}
 
 {% column %}
-Full EP : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4HRwD1wzag844Ig0ZGT_Pl)
+Episodes : 12
 
-Highlight : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI7xrJSgECYFfrvUU1awOxLZ)
+Aired : Oct 26, 2025 - Jan 11, 2026
+
+Hashtag : [#H2Hseries](https://x.com/hashtag/H2Hseries?src=hashtag_click)
+
+Official Account : [@Head2HeadGMMTV](https://x.com/Head2HeadGMMTV)
+
+Full EP : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4HRwD1wzag844Ig0ZGT_Pl)
 
 Behind The Scenes : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI4zW-cRbimTEctM-zEfhmMJ)
 
-[GMMTV2025 RIDING THE WAVE](https://www.youtube.com/live/057lFJnjqi0?si=afAdc8DNc0gEvykD\&t=3625)
+Highlight : [YouTube](https://youtube.com/playlist?list=PLszepnkojZI7xrJSgECYFfrvUU1awOxLZ)
+
+[GMMTV2025 RIDING THE WAVE](https://www.youtube.com/live/057lFJnjqi0?si=bC42BoPWZ1xHS1FG\&t=3625)
 {% endcolumn %}
 {% endcolumns %}
 
