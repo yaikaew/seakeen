@@ -12,7 +12,6 @@
   * [KAZZ MAGAZINE](magazine/kazz-magazine.md)
   * [Praew Favor](magazine/praew-favor.md)
 * [Shows](shows.md)
-* [Schedule](schedule/README.md)
-  * [2025](schedule/2025.md)
+* [Schedule](schedule.md)
 * [Page 1](page-1.md)
 * [Page 2](page-2.md)
