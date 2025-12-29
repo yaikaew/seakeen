@@ -40,3 +40,36 @@ layout:
 <figure><img src="https://pbs.twimg.com/media/G9O17akbgAI1JGe?format=jpg&#x26;name=large" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+<details>
+
+<summary>The Presentation Ceremony of the Thailand's Public Diplomacy Award 2025</summary>
+
+<i class="fa-calendar">:calendar:</i> : Dec 2, 2025 | 17.00\
+<i class="fa-user">:user:</i> : Sea Keen\
+\
+<i class="fa-location-dot">:location-dot:</i> : Ministry of Foreign Affairs, Sri Ayutthaya Road\
+<i class="fa-camera-movie">:camera-movie:</i> : Facebook/YouTube: GMMTV Official\
+<i class="fa-bullhorn">:bullhorn:</i> : งานปิด เฉพาะผู้มีสิทธิ์เข้าร่วมงาน\
+\
+<i class="fa-key">:key:</i> : [TPDA 2025 x SEAKEEN](https://x.com/search?q=%22TPDA%202025%20x%20SEAKEEN%22\&src=typed_query\&f=top)\
+<i class="fa-hashtag">:hashtag:</i> : [#GMMTVxTPDA2025](https://x.com/hashtag/GMMTVxTPDA2025?src=hashtag_click)\
+\
+<i class="fa-link">:link:</i> : [https://www.youtube.com/live/s1ltl0MDu6I](https://www.youtube.com/live/s1ltl0MDu6I)
+
+</details>
+
+<details>
+
+<summary>The Mall Lifestore The Great New Year</summary>
+
+<i class="fa-calendar">:calendar:</i> : Dec 25, 2025 | 18.00\
+<i class="fa-user">:user:</i> : Sea Keen\
+\
+<i class="fa-location-dot">:location-dot:</i> : M GRAND HALL ชั้น G เดอะมอลล์ไลฟ์สโตร์ บางแค\
+<i class="fa-bullhorn">:bullhorn:</i> : สามารถให้กำลังใจรอบบริเวณงานได้, มีรวมพลหลังจบงาน\
+\
+<i class="fa-key">:key:</i> : [HNY WITH SEAKEEN 2026](https://x.com/search?q=%22HNY%20WITH%20SEAKEEN%202026%22\&src=typed_query\&f=top)\
+<i class="fa-hashtag">:hashtag:</i> : [#SEAKEENxTheGreatNewYear2026](https://x.com/hashtag/SEAKEENxTheGreatNewYear2026?src=hashtag_click)
+
+</details>
