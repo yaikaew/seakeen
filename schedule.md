@@ -73,3 +73,18 @@ layout:
 <i class="fa-hashtag">:hashtag:</i> : [#SEAKEENxTheGreatNewYear2026](https://x.com/hashtag/SEAKEENxTheGreatNewYear2026?src=hashtag_click)
 
 </details>
+
+<details><summary>2025.12.02 > The Presentation Ceremony of the Thailand's Public Diplomacy Award 2025</summary><i class="fa-calendar">:calendar:</i> : Dec 2, 2025 | 17.00 \
+<i class="fa-user">:user:</i> : Sea Keen\\<i class="fa-location-dot">:location-dot:</i> : Ministry of Foreign Affairs, Sri Ayutthaya Road\<i class="fa-camera-movie">:camera-movie:</i> : Facebook/YouTube: GMMTV Official\<i class="fa-bullhorn">:bullhorn:</i> : งานปิด เฉพาะผู้มีสิทธิ์เข้าร่วมงาน\\<i class="fa-key">:key:</i> : [TPDA 2025 x SEAKEEN](https://x.com/search?q=%22TPDA%202025%20x%20SEAKEEN%22&src=typed_query&f=top)\<i class="fa-hashtag">:hashtag:</i> : [#GMMTVxTPDA2025](https://x.com/hashtag/GMMTVxTPDA2025?src=hashtag_click)\\<i class="fa-link">:link:</i> : [https://www.youtube.com/live/s1ltl0MDu6I](https://www.youtube.com/live/s1ltl0MDu6I)</details>
+
+<details><summary>2025.12.04 > Spotify Wrapped Live Thailand 2025</summary><i class="fa-calendar">:calendar:</i> : Dec 4, 2025 | 18.00 \
+<i class="fa-user">:user:</i> : CLO'VER\\<i class="fa-location-dot">:location-dot:</i> : One Bangkok\\<i class="fa-key">:key:</i> : [CLOVER AT SPOTIFY TH 2025](https://x.com/search?q=%22CLOVER%20AT%20SPOTIFY%20TH%202025%22&src=typed_query&f=top)\<i class="fa-hashtag">:hashtag:</i> : [#SpotifyWrappedLiveTH2025](https://x.com/hashtag/SpotifyWrappedLiveTH2025?src=hashtag_click)\\<i class="fa-link">:link:</i> : [https://www.youtube.com/live/61tPUbctfZo](https://www.youtube.com/live/61tPUbctfZo)</details>
+
+<details><summary>2025.12.08 > Destiny Clinic</summary><i class="fa-calendar">:calendar:</i> : Dec 8, 2025 | 18.00 \
+<i class="fa-user">:user:</i> : Sea Keen\\<i class="fa-location-dot">:location-dot:</i> : Central Rama 3\\<i class="fa-key">:key:</i> : [FIRST DESTINY SEAKEEN](https://x.com/search?q=%22FIRST%20DESTINY%20SEAKEEN%22&src=typed_query&f=top)\<i class="fa-hashtag">:hashtag:</i> : [#DestinyClinicxSeaKeen](https://x.com/hashtag/DestinyClinicxSeaKeen?src=hashtag_click)\\<i class="fa-link">:link:</i> : [https://www.facebook.com/share/v/1GHATdS9hQ/](https://www.facebook.com/share/v/1GHATdS9hQ/)</details>
+
+<details><summary>2025.12.11 > Press Tour คนคุ้นคอย (Next To You) - รายการข่าวรอบวัน (Live)</summary><i class="fa-calendar">:calendar:</i> : Dec 11, 2025 | 12.30 \
+<i class="fa-user">:user:</i> : CLO'VER\\<i class="fa-camera-movie">:camera-movie:</i> : YouTube : ข่าวรอบวัน\\<i class="fa-key">:key:</i> : [CLOVER NTY PRESS TOUR](https://x.com/search?q=%22CLOVER%20NTY%20PRESS%20TOUR%22&src=typed_query&f=top)\<i class="fa-hashtag">:hashtag:</i> : [#คนคุ้นคอย_PressTour](https://x.com/hashtag/คนคุ้นคอย_PressTour?src=hashtag_click)\\<i class="fa-link">:link:</i> : [https://youtu.be/YojIO8z1lLs](https://youtu.be/YojIO8z1lLs)</details>
+
+<details><summary>2025.12.11 > Press Tour คนคุ้นคอย (Next To You) - ถ่าย KAZZ MAGAZINE</summary><i class="fa-calendar">:calendar:</i> : Dec 11, 2025 | 13.30 \
+<i class="fa-user">:user:</i> : CLO'VER\\<i class="fa-key">:key:</i> : [CLOVER NTY PRESS TOUR](https://x.com/search?q=%22CLOVER%20NTY%20PRESS%20TOUR%22&src=typed_query&f=top)\<i class="fa-hashtag">:hashtag:</i> : [#คนคุ้นคอย_PressTour](https://x.com/hashtag/คนคุ้นคอย_PressTour?src=hashtag_click)\</details>
