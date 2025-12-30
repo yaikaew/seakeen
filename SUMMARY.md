@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Profile](README.md)
-* [Discography](discography.md)
+* [Discography](discography/README.md)
+  * [CLO'VER](discography/clover.md)
 * [Filmography](series/README.md)
   * [WEIRDO-101](series/weirdo-101.md)
   * [Head 2 Head](series/head-2-head.md)
